@@ -17,7 +17,7 @@ arr2 = np.ones((2,3))
 arr3 = np.empty((2,3,4))
 arr4 = np.arange(5)
 arr5 = np.array([[1,2,3,4], np.arange(5,9)])
-
+#打印
 print(arr1)
 print(arr2)
 print(arr3)
