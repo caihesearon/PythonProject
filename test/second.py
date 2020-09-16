@@ -18,3 +18,10 @@ arr = np.arange(32).reshape((8,4))
 print(arr)
 print(arr[[1,5,7,2],[0,3,1,2]])
 print(arr[[1,5,7,2]][:,[0,3,1,2]])
+
+print(arr.T)
+
+arr = np.arange(24).reshape(2,3,4)
+print(arr)
+print(arr.transpose(1,0,2))
+
