@@ -24,4 +24,3 @@ print(arr3)
 print(arr4)
 print(arr5)
 
-
